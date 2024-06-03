@@ -13,6 +13,6 @@ Implementação de uma API em Spring Boot3, contendo as seguintes funcionalidade
   - Spring JPA
   - Spring Security
   - Bean Validation
-  - JWT
+  - Java JWT
   - JUnit
   - Hibernate
